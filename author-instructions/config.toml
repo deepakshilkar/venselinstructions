@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+name = "Author Instructions - vensel Publications"
+description = "Author instructions for all journal under Vensel Publications"
+homepage = "https://authors.pubs.vensel.org/"
+demosite = "https://geekdocs.de/"
+tags = ["docs", "documentation", "responsive", "simple"]
+
+
+[author]
+    name = "Robert Kaussow"
+    homepage = "https://thegeeklab.de/"
