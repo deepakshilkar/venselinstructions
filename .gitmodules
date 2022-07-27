@@ -1,3 +1,6 @@
 [submodule "author-instructions/themes/hugo-book"]
 	path = author-instructions/themes/hugo-book
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "author-instructions/themes/docdock"]
+	path = author-instructions/themes/docdock
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
