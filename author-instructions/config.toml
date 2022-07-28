@@ -4,7 +4,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Author Hub - Vensel Publications"
 theme = "docdock"
-themesdir = "/home/deepak/Documents/venselinstructions/author-instructions/themes"
+# themesdir = "/home/deepak/Documents/venselinstructions/author-instructions/themes"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
@@ -13,11 +13,11 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 
-# [Languages]
-# [Languages.en]
-# title = "Author instructions"
-# weight = 1
-# languageName = "English"
+[Languages]
+[Languages.en]
+title = "Author instructions"
+weight = 1
+languageName = "English"
 
 
 [markup]
@@ -25,10 +25,9 @@ enableMissingTranslationPlaceholders = false
 unsafe = true
 
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
@@ -42,11 +41,6 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-cloud-download'></i> <label>Journal</label>"
-url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
+name = "<i class='fa-solid fa-book-open'></i> <label>Journals</label>"
+url = "https://pubs.vensel.org"
 weight = 11
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
-url = "/credits"
-weight = 30

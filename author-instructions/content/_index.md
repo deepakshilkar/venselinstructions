@@ -1,52 +1,11 @@
 +++
-title = "DocDock Theme for Hugo"
-description = ""
+title = "Author Instructions"
+description = "Intructions for authors to format and author their manuscript."
+
 +++
 
-# Hugo docDock theme
-[Hugo-theme-docdock {{%icon fa-github%}}](https://github.com/vjeantet/hugo-theme-docdock) is a theme for Hugo, a fast and modern static website engine written in Go. Hugo is often used for blogs, **this theme is fully designed for documentation.**
+Vensel Publications is a publisher of scholarly open access journals. All journals uphold a peer-reviewed, rapid, and rigorous manuscript handling and editorial process.
 
-This theme is a partial porting of the [Learn theme of matcornic {{%icon fa-github%}}](https://github.com/matcornic/hugo-theme-learn). and its default style "flex" comes from [facette.io](https://github.com/facette)'s documentation.
+Our journals are the perfect place for you to publish your work under an open access license, in a fast and straightforward manner. Our journals are indexed in the leading databases and, since they are open access, have a broad readership.
 
-{{%panel%}}docDock works with a "page tree structure" to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "content-organisation/_index.md"%}}) {{%/panel%}}
-
-## Main features
-
-* [Automatic Search]({{%relref "search/_index.md" %}})
-* **Unlimited menu levels**
-* [Generate RevealJS presentation]({{%relref "page-slide.md"%}}) from markdown (embededed or fullscreen page)
-* Automatic next/prev buttons to navigate through menu entries
-* [Image resizing, shadow...]({{%relref "create-page/page-images.md" %}})
-* [Attachments files]({{%relref "shortcodes/attachments.md" %}})
-* [List child pages]({{%relref "shortcodes/children/_index.md" %}})
-* [Excerpt]({{%relref "shortcodes/excerpt.md"%}}) ! Include segment of content from one page in another
-* [Mermaid diagram]({{%relref "shortcodes/mermaid.md" %}}) (flowchart, sequence, gantt)
-* [Icons]({{%relref "shortcodes/icon.md" %}}), [Buttons]({{%relref "shortcodes/button.md" %}}), [Alerts]({{%relref "shortcodes/alert.md" %}}), [Panels]({{%relref "shortcodes/panel.md" %}}), [Tip/Note/Info/Warning boxes]({{%relref "shortcodes/notice.md" %}}), [Expand]({{%relref "shortcodes/expand.md" %}})
-* [customizable look and feel]({{%relref "content-organisation/customize-style/_index.md"%}}), [theme style]({{%relref "content-organisation/customize-style/themestyle.md"%}}), [theme variants]({{%relref "content-organisation/customize-style/theme-variants.md"%}})
-
-### Layout styles
-
-This theme comes with two distinctive layout styles: Flex and Original. The main documentation is built with **Flex**, though available also in **[Original style](/original)**
-
-#### Style "Flex" (default)
-
-![](docdock-style-flex.png?classes=shadow)
-
-#### Style "Original"
-
-![](docdock-style-original.png?classes=shadow)
-
-## Contribute to this documentation
-Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and pullrequest it
-{{%alert%}}Your modification will be deployed automatically when merged !{{%/alert%}}
-
-
-## Documentation website
-This current documentation has been statically generated with Hugo with a simple command : `hugo -t docdock` -- source code is [available here at GitHub {{%icon fa-github%}}](https://github.com/vjeantet/hugo-theme-docDock)
-
-{{% panel theme="success" header="Automated deployments" footer="Netlify builds, deploys, and hosts  frontends." %}}
-Automatically published and hosted thanks to [Netlify](https://www.netlify.com/).
-
-Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
-{{% /panel %}}
-
+As a pioneer open access publisher, our mission is to make new research findings accessible to everyone. We are serving scholars from across the globe and from a variety of backgrounds. To deepen our understanding of the research communities that we serve, we aim to build journals that are just as diverse and inclusive. Only by valuing differences can we create an equitable and inclusive work environment and foster the openness that is key to our mission.
