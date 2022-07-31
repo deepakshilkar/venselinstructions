@@ -15,3 +15,4 @@ Manuscripts submitted for initial consideration must adhere to the following con
 - When required by a journal's structure or length limitations, manuscript templates should be used.
 - References can be provided in any style, but they must be complete, including titles. For information about the required components of different reference types, please refer to the [ACS Style Quick Guide](https://pubs.acs.org/doi/full/10.1021/acsguide.40303).
 - Supporting Information must be submitted as a separate file(s).
+
