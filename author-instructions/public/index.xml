@@ -11,13 +11,23 @@
     
     
     <item>
+      <title>Ethics and Regulations</title>
+      <link>https://authors.pubs.vensel.org/authorinstructions/cope-guidelines/01-ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://authors.pubs.vensel.org/authorinstructions/cope-guidelines/01-ethics/</guid>
+      <description>Vensel Publications adheres to the guidelines provided by Committee on Publication Ethics (COPE) and endorses the World Association of Medical Editors (WAME) Policy Statement on Geopolitical Intrusion on Editorial Decisions. The publisher also endorses the International Committee of Medical Journal Editors (ICMJE) Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals.
+When a manuscript is submitted to our journals, it is assumed that all authors have read, approved of, and adhered to the publication&amp;rsquo;s regulations.</description>
+    </item>
+    
+    <item>
       <title>Preparing your manuscript</title>
       <link>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/01-preparing-your-manuscript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/01-preparing-your-manuscript/</guid>
       <description>This section provides general style and formatting information only. Formatting guidelines for specific article types used across the journal can be found below.
-**In case the word counts and other limits differ, these will be mentioned on specific instruction pages. **
+In case the word counts and other limits differ, these will be mentioned on specific instruction pages.
 Manuscripts submitted for initial consideration must adhere to the following considerations:
  Submissions must be complete with clearly identified standard sections used to report original research, free of annotations or highlights, and include all numbered and labeled components.</description>
     </item>
@@ -50,16 +60,6 @@ Manuscripts submitted for initial consideration must adhere to the following con
       <guid>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/04-preparing-additional-files/</guid>
       <description>As the length and quantity of data is not restricted for many article types, authors can provide datasets, tables, movies, or other information as additional files.
 All additional files will be posted along with the accepted article. Do not attach files such as patient consent forms, language change certificates, or revised versions of the master script document with changes detected. Such files should be emailed to the journal&amp;rsquo;s editorial email address upon request, quoting the manuscript reference number.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://authors.pubs.vensel.org/_footer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://authors.pubs.vensel.org/_footer/</guid>
-      <description>   Vensel Publications Journals Quick Links     Vensel Publications Reimagining publishing is an emerging publisher with a team that does not shy away from experimenting with the already existing academic publication model. Journal of Pharmaceutical ChemistryFormulation Development and Analysis About UsContact UsPrivacy PolicySitemap    Copyright © 2021 All Rights Reserved by Vensel Publications.
-    </description>
     </item>
     
   </channel>

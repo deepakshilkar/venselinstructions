@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/01-preparing-your-manuscript/</loc>
+    <loc>https://authors.pubs.vensel.org/authorinstructions/cope-guidelines/01-ethics/</loc>
   </url>
   
   <url>
@@ -11,7 +11,15 @@
   </url>
   
   <url>
+    <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/01-preparing-your-manuscript/</loc>
+  </url>
+  
+  <url>
     <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/02-preparing-your-tables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://authors.pubs.vensel.org/authorinstructions/cope-guidelines/</loc>
   </url>
   
   <url>
@@ -20,11 +28,6 @@
   
   <url>
     <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/04-preparing-additional-files/</loc>
-  </url>
-  
-  <url>
-    <loc>https://authors.pubs.vensel.org/_footer/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
