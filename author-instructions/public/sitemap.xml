@@ -7,11 +7,23 @@
   </url>
   
   <url>
+    <loc>https://authors.pubs.vensel.org/authorinstructions/</loc>
+  </url>
+  
+  <url>
     <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/</loc>
   </url>
   
   <url>
     <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/01-preparing-your-manuscript/</loc>
+  </url>
+  
+  <url>
+    <loc>https://authors.pubs.vensel.org/journals/journal-jpc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://authors.pubs.vensel.org/journals/</loc>
   </url>
   
   <url>
@@ -31,11 +43,16 @@
   </url>
   
   <url>
-    <loc>https://authors.pubs.vensel.org/</loc>
+    <loc>https://authors.pubs.vensel.org/authorinstructions/generalinstructions/05-peer-review/</loc>
   </url>
   
   <url>
-    <loc>https://authors.pubs.vensel.org/authorinstructions/</loc>
+    <loc>https://authors.pubs.vensel.org/_footer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://authors.pubs.vensel.org/</loc>
   </url>
   
   <url>

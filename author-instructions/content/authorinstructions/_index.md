@@ -1,11 +1,10 @@
 +++
-title = "Author instructions - Home"
+title = "General guidelines"
 head ="<label>Vensel Publications</label> "
+weight = 1
 +++
 
 {{% alert theme="info" %}}Please note that specific sections for preparing each manuscript are provided on different pages corresponding to each journal website. While the manuscript templates themselves are sufficient to format your manuscript and prepare for submission, we recommend visiting the instruction pages here in case you would like more information.{{% /alert %}}
-
-
 
 # Article processing flow
 
