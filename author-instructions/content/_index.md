@@ -12,8 +12,4 @@ Our journals are the perfect place for you to publish your work under an open ac
 
 As a pioneer open access publisher, our mission is to make new research findings accessible to everyone. We are serving scholars from across the globe and from a variety of backgrounds. To deepen our understanding of the research communities that we serve, we aim to build journals that are just as diverse and inclusive. Only by valuing differences can we create an equitable and inclusive work environment and foster the openness that is key to our mission.
 
-
-
-
-
 {{%children style="h2" description="true"%}}
