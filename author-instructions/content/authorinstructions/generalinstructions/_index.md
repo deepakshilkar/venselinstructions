@@ -1,8 +1,10 @@
 +++
-title = "General instructions"
-description = ""
+title = "Manuscript preparation"
+description = "The instructions below spoecify the general guidelines for manuscript preparation."
 weight = 1
 +++
+
+
 
 These are general formatting guidelines across all our journals; please always refer to journal-specific instructions for authors for article type specifications. You can browse the titles on our Journals website. 
 
